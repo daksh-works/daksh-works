@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh Gohil</h1>
-<h3 align="center">A passionate coder and optimistic person</h3>
+<h3 align="center">A passionate coder and an optimistic person</h3>
 
 <p align="left">
 </p>
